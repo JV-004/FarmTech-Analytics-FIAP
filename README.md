@@ -5,7 +5,7 @@ Vou criar uma estrutura de **`README.md`** adaptada à sua organização de past
 ```markdown
 # Sistema de Gestão Agrícola (Python + R)
 
-![Agricultura Digital](https://img.freepik.com/vetores-gratis/icone-de-natureza-ecologica_53876-104373.jpg)  
+![Agricultura Digital]  
 *Gestão de culturas, cálculos de insumos e análise climática integrados.*
 
 ---
